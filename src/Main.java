@@ -17,6 +17,6 @@ public class Main {
         }
     }
 
-    ArrayList<Integer>lista=new ArrayList<>(Arrays.asList(contA,contB));
+   return  ArrayList<Integer>lista=new ArrayList<>(Arrays.asList(contA,contB));
 
 }
